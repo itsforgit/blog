@@ -5,10 +5,11 @@ package com.abpv.blog.model;
 
 /**
  * @author pirabu
- *
+ * 
  */
 public class User {
-	static{
+
+	static {
 		System.out.println("Welcome Boss");
 	}
 
