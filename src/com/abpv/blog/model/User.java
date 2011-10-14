@@ -11,6 +11,8 @@ public class User {
 
 	static {
 		System.out.println("Welcome Boss");
+		System.out.println("updated code");
 	}
+	
 
 }
