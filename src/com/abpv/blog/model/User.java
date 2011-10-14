@@ -13,7 +13,7 @@ public class User {
 	static {
 		System.out.println("Welcome Boss !");
 		System.out.println("Hello World");
-		System.out.println("jdhgfjgdfg");
+		System.out.println("Welcome to Git");
 		
 	}
 
