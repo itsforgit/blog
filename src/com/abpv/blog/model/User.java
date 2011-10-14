@@ -8,5 +8,8 @@ package com.abpv.blog.model;
  *
  */
 public class User {
+	static{
+		System.out.println("Welcome Boss");
+	}
 
 }
